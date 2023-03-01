@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m currently working on numerical simulations and data analysis.
+
 👯 I’m looking to collaborate on open source projects.
+
 💬 Ask me about any physics-related stuff.
 
 <!--
