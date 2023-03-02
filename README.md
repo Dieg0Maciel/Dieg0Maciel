@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Diego
+### Hi there 👋, my name is Diego Maciel
 I am a postdoctoral fellow at The Brazilian Center for Research in Physics (CBPF)
 
 Skills: C++ / PYTHON / CYTHON
