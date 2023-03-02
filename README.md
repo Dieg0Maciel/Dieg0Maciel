@@ -4,7 +4,7 @@ I am a postdoctoral fellow at The Brazilian Center for Research in Physics (CBPF
 Skills: C++ / PYTHON / CYTHON
 
 - 🔭 I’m currently working on numerical simulations and data analysis. 
-- 👯 I’m looking to collaborate on on open source projects. 
+- 👯 I’m looking to collaborate on open source projects. 
 - 💬 Ask me about any physics-related stuff. 
 
 
