@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Diego Maciel
 I am a postdoctoral fellow at The Brazilian Center for Research in Physics (CBPF)
 
-Skills: C++ / PYTHON / CYTHON
+Skills: PYTHON / CYTHON / C++ 
 
 - 🔭 I’m currently working on data engineering, data analysis and numerical simulations. 
 - 👯 I’m looking to collaborate on open source projects. 
