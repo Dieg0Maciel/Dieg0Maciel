@@ -19,3 +19,7 @@ I also enjoy doing some LeetCode problems in my spare time.
 
 * [ETL PIPELINE WITH PYTHON AND AIRFLOW](https://github.com/Dieg0Maciel/etl_pipeline_with_python_and_airflow): In this project an ETL pipeline was built on premise with Airflow running in a Docker container, where each task is organized and automated by an Airflow DAG.
 
+* [NUMERICAL SIMULATION OF SAMPLE SPACE REDUCING PROCESSES](https://github.com/Dieg0Maciel/cascadeSSRP):
+
+* [LEETCODE PROBLEMS/SOLUTIONS](https://github.com/Dieg0Maciel/LeetCode): 
+
