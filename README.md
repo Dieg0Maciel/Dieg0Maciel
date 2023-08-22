@@ -17,9 +17,9 @@ I also enjoy doing some LeetCode problems in my spare time.
 
 ## Personal Projects
 
-* [ETL PIPELINE WITH PYTHON AND AIRFLOW](https://github.com/Dieg0Maciel/etl_pipeline_with_python_and_airflow): In this project an ETL pipeline was built on premise with Airflow running in a Docker container, where each task is organized and automated by an Airflow DAG.
+* [ETL PIPELINE WITH PYTHON AND AIRFLOW](https://github.com/Dieg0Maciel/etl_pipeline_with_python_and_airflow): Extract, Transform and Load (ETL) pipeline  built on premise with Airflow and PostgresQL running in a Docker container.
 
-* [NUMERICAL SIMULATION OF SAMPLE SPACE REDUCING PROCESSES](https://github.com/Dieg0Maciel/cascadeSSRP): Python and C++ implementation of a numerical simulation of a Cascade Sample Space Reducing Process. 
+* [NUMERICAL SIMULATION OF SAMPLE SPACE REDUCING PROCESSES](https://github.com/Dieg0Maciel/cascadeSSRP):  Numerical simulation of a Cascade Sample Space Reducing Process implemented in Python and C++. 
 
 * [LEETCODE PROBLEMS AND SOLUTIONS](https://github.com/Dieg0Maciel/LeetCode): 
 
