@@ -19,4 +19,4 @@ I also enjoy doing some LeetCode problems in my spare time.
 
 * [ETL PIPELINE WITH PYTHON AND AIRFLOW](https://github.com/Dieg0Maciel/etl_pipeline_with_python_and_airflow): In this project an ETL pipeline was built on premise with Airflow running in a Docker container, where each task is organized and automated by an Airflow DAG.
 
-<img height="32" width="32" src="https://simpleicons.vercel.app/github/ffffff"/>
+<img height="32" width="32" src="https://simpleicons.vercel.app/github/FFFFFF"/>
