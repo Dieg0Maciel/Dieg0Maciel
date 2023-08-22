@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Diego Maciel
+## Diego Maciel
+### Postdoctoral Researcher at CBPF | Physics | Data Science
 
 I am a postdoctoral fellow at The Brazilian Center for Research in Physics (CBPF).
 
