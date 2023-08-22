@@ -27,6 +27,6 @@ I also enjoy doing some LeetCode problems in my spare time.
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/orange/pink" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/_/eee" />
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg/hotpink' alt='github' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 
 
