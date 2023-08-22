@@ -1,5 +1,6 @@
 # Diego Maciel
-## Postdoctoral Researcher at CBPF | Physics | Data Science
+#### Postdoctoral Researcher at CBPF | Physics | Data Science
+------
 
 I am a postdoctoral fellow at The Brazilian Center for Research in Physics (CBPF).
 
