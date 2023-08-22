@@ -1,7 +1,7 @@
-# Diego Maciel
+# Diego Maciel [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dieg0Maciel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/diego-noguera-maciel-9709a8229/)  
 #### Postdoctoral Researcher at CBPF | Physics | Data Science
 ------
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dieg0Maciel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/diego-noguera-maciel-9709a8229/)  
+
 
 ## About
 
