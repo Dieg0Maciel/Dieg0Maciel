@@ -21,5 +21,5 @@ I also enjoy doing some LeetCode problems in my spare time.
 
 * [NUMERICAL SIMULATION OF SAMPLE SPACE REDUCING PROCESSES](https://github.com/Dieg0Maciel/cascadeSSRP):  Numerical simulation of a Cascade Sample Space Reducing Process implemented in Python and C++. 
 
-* [LEETCODE PROBLEMS AND SOLUTIONS](https://github.com/Dieg0Maciel/LeetCode): 
+* [LEETCODE PROBLEMS](https://github.com/Dieg0Maciel/LeetCode): List of solutions for LettCode problems in Python, C/C++.
 
