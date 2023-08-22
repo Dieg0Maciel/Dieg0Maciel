@@ -15,3 +15,7 @@ I also enjoy doing some LeetCode problems in my spare time.
 
 ``Skills: PYTHON / CYTHON / C++`` 
 
+## Personal Projects
+
+* [ETL PIPELINE WITH PYTHON AND AIRFLOW](https://github.com/Dieg0Maciel/etl_pipeline_with_python_and_airflow)
+In this project an ETL pipeline (extract, transform and load) was built on premise with Airflow running in a Docker container, where each task is organized and automated by an Airflow DAG. Data extraction is performed using the API provided by https://openweathermap.org/. This data is transformed with Python and loaded to a PostgresQL database.
