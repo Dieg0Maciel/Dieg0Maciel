@@ -1,9 +1,7 @@
 # Diego Maciel
 ## Postdoctoral Researcher at CBPF | Physics | Data Science
-
-
+------
 I am a postdoctoral fellow at The Brazilian Center for Research in Physics (CBPF).
-
 
 My work on research is focused in problems associated with complex systems, quantization, quantum information and quantum complexity.
 
