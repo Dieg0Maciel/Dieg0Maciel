@@ -13,7 +13,7 @@ The study of information and complex system has sparked my interest in creating 
 
 I also enjoy doing some LeetCode problems in my spare time.
 
-``Skills: PYTHON / CYTHON / C++`` 
+``Skills: PYTHON | CYTHON | C++`` 
 
 ## Personal Projects
 
