@@ -16,6 +16,7 @@ I also enjoy doing some LeetCode problems in my spare time.
 ``Skills: PYTHON | CYTHON | C++`` 
 
 ## Personal Projects
+* [TIME SERIES FORECAST WITH SCIKITLEARN](https://github.com/Dieg0Maciel/time_series_forecast_with_scikitlearn/tree/main): Forecast the average temperature in Austin Texas with SciKit-Learn using the Austin Weather dataset provided by Kaggle.
 
 * [ETL PIPELINE WITH PYTHON AND AIRFLOW](https://github.com/Dieg0Maciel/etl_pipeline_with_python_and_airflow): Extract, Transform and Load (ETL) pipeline  built on premise with Airflow and PostgresQL running in a Docker container.
 
