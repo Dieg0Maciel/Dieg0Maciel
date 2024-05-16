@@ -2,12 +2,5 @@
 #### Data Science
 ------
 
-## Personal Projects
-* [TIME SERIES FORECAST WITH SCIKITLEARN](https://github.com/Dieg0Maciel/time_series_forecast_with_scikitlearn/tree/main): Forecast the average temperature in Austin Texas with SciKit-Learn.
 
-* [ETL PIPELINE WITH PYTHON AND AIRFLOW](https://github.com/Dieg0Maciel/etl_pipeline_with_python_and_airflow): Extract, Transform and Load (ETL) pipeline  built on premise with Airflow and PostgresQL running in a Docker container.
-
-* [NUMERICAL SIMULATION OF SAMPLE SPACE REDUCING PROCESSES](https://github.com/Dieg0Maciel/cascadeSSRP):  Numerical simulation of a Cascade Sample Space Reducing Process implemented in Python and C++. 
-
-* [LEETCODE PROBLEMS](https://github.com/Dieg0Maciel/LeetCode): Solutions for LeetCode problems coded in Python, C/C++.
 
